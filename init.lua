@@ -1,0 +1,16 @@
+appname="RomUtil"
+appver="1.0"
+appcode="1"
+appsdk="21"
+path_pattern=""
+packagename="ml.cerasus.RomUtil"
+theme="Theme_DeviceDefault_Light_NoActionBar"
+app_key=""
+app_channel=""
+developer="开发者"
+description="描述"
+debugmode=true
+user_permission={
+  "INTERNET",
+  "WRITE_EXTERNAL_STORAGE"
+}
