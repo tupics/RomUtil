@@ -16,6 +16,7 @@ limitations under the License.
 --[[
 开发：SorrowClover
 协助：Createlite
+原 Java 项目：https://github.com/SherlockGougou/AndroidUtils/blob/master/src/utils/RomUtil.java
 ]]
 require "import"
 import "android.app.*"

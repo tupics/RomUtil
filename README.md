@@ -3,6 +3,10 @@
 
 *开源协议：[Apache License,Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)*
 
+Base Project:[https://github.com/SherlockGougou/AndroidUtils/blob/master/src/utils/RomUtil.java](https://github.com/SherlockGougou/AndroidUtils/blob/master/src/utils/RomUtil.java)
+
+*源项目：[https://github.com/SherlockGougou/AndroidUtils/blob/master/src/utils/RomUtil.java](https://github.com/SherlockGougou/AndroidUtils/blob/master/src/utils/RomUtil.java)*
+
 Main
 -------
 RomUtil is a method in Language Java in order to **judge users’ ROM.**
