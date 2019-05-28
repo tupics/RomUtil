@@ -1,10 +1,16 @@
 # RomUtil-Lua
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/tupics/Tujian-X-daily-pics/blob/master/LICENSE)
+
+*开源协议：[Apache License,Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)*
+
 Main
 -------
 RomUtil is a method in Language Java in order to judge users’ ROM
+
 Thanks to @SorrowClover,we moved it to Androlua.
 
 RomUtil 是 Java 中判定 ROM 的方法，主要是判定国产系统（由于他们很多地方都与原生不同，需要用不同的方法来达成相同的效果）
+
 感谢 @SorrowClover，我们一起将这个方法转移到了 Androlua.
 
 License
