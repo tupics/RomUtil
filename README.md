@@ -5,9 +5,9 @@
 
 Main
 -------
-RomUtil is a method in Language Java in order to judge users’ ROM
+RomUtil is a method in Language Java in order to **judge users’ ROM.**
 
-*RomUtil 是 Java 中判定 ROM 的方法，主要是判定国产系统（由于他们很多地方都与原生不同，需要用不同的方法来达成相同的效果）*
+*RomUtil 是 Java 中**判定 ROM** 的方法，主要是判定**国产系统**（由于他们很多地方都与原生不同，需要用不同的方法来达成相同的效果）*
 
 Thanks to @SorrowClover,we moved it to Androlua.
 
