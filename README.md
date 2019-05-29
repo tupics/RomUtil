@@ -17,6 +17,24 @@ Thanks to @SorrowClover,we moved it to Androlua.
 
 *感谢 @SorrowClover，我们一起将这个方法转移到了 Androlua.*
 
+Get start
+-------
+Download the Project and open **main.lua**,there are the method for how to use.
+
+*下载工程并且打开 **main.lua**，其中有调用方法。*
+
+If you want to use it in your own Project,copy **libs/RomUtil.dex** to your Project’s libs.
+
+*如果你想要使用这个方法，请将 **libs/RomUtil.dex** 复制到工程根目录的 libs 文件夹。*
+
+Import code:
+
+`import "ml.cerasus.RomUtil.*"`
+
+**PLEASE ACCEPT THE LICENSE FIRST OF ALL!**
+
+***请遵守协议来使用本项目！***
+
 License
 -------
 
